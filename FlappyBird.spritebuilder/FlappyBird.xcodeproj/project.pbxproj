@@ -544,7 +544,7 @@
 				B77F1CDD17B978D8009739AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		B77F1CDE17B978D8009739AE /* Build configuration list for PBXNativeTarget "FlappyBird" */ = {
 			isa = XCConfigurationList;
@@ -553,7 +553,7 @@
 				B77F1CE017B978D8009739AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
