@@ -9,7 +9,9 @@
 #import "CCNode.h"
 #import "GamePlayScene.h"
 
-@interface MainScene : GamePlayScene
+@interface MainScene : GamePlayScene{
+     Character*     character;
+}
 
 -(void) gameOver;
 
