@@ -10,7 +10,7 @@
 #import "GamePlayScene.h"
 
 @interface MainScene : GamePlayScene{
-     Character*     character;
+    
 }
 
 -(void) gameOver;
